@@ -1,2 +1,2 @@
 hello.c
-void main(){ printf("hello\n")};
+void main(){ int n; printf("hello\n")};
